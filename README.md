@@ -10,10 +10,17 @@
 ![get_request_invalid_cat](https://github.com/itsNur/Postman/assets/70845085/eb995fa2-4bd3-4e4c-952e-ea69aeb7c20b)
 
 # Test form GoogleMaps_API
-![get_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/a5425e37-3724-4505-8604-c899de274523)
-![delete_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/6bca2186-6271-4c66-9f51-0d3ae88f564f)
+# Creating new location
 ![post_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/d0d7b7bd-d947-4b1d-9f6f-06a24a8e245e)
+# Check location status
+![get_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/a5425e37-3724-4505-8604-c899de274523)
+# Update the location
 ![put_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/fb3c1b7e-6dd5-41c7-b2f3-bf13a08eb953)
+# Deleting the location
+![delete_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/6bca2186-6271-4c66-9f51-0d3ae88f564f)
+# Invalid delete request, 404 Error
 ![negative_delete_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/4dbafb71-6fe9-441e-b2c8-d1ff2a564def)
+# Invalid get request, 404 Error
 ![negative_get_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/32051810-afb2-46eb-b8c8-6c478a7e2e92)
+# Invalid put request, 404 Error
 ![negative_put_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/047d4d2b-0446-460d-bbe2-de92694b8239)

@@ -9,7 +9,7 @@
 # Invalid category
 ![get_request_invalid_cat](https://github.com/itsNur/Postman/assets/70845085/eb995fa2-4bd3-4e4c-952e-ea69aeb7c20b)
 
-# Test GoogleMaps_API
+# Test form GoogleMaps_API
 ![get_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/a5425e37-3724-4505-8604-c899de274523)
 ![delete_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/6bca2186-6271-4c66-9f51-0d3ae88f564f)
 ![post_request_gmaps_API](https://github.com/itsNur/Postman/assets/70845085/d0d7b7bd-d947-4b1d-9f6f-06a24a8e245e)
